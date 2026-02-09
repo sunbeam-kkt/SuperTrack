@@ -1,4 +1,4 @@
-# SUPERTrack-main
+# SUPER-Track: Semantic Unified Pseudo-segmentation and Enhanced Representation for Multi-UAV Perception
 
 ### This is the official code of the paper ***SUPER-Track: Semantic Unified Pseudo-segmentation and Enhanced Representation for Multi-UAV Perception***
 
