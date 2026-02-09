@@ -40,3 +40,8 @@ The visualization of SUPERTrack on AntiUAV410 datatset is shown in the following
 
 ![visualization](https://github.com/sunbeam-kkt/SUPERTrack-main/blob/main/AntiUAV410.jpg)
 
+Thanks for the [Dist-Tracker](https://github.com/earth-insights/Dist-Tracker) and [YOLOv13](https://github.com/iMoonLab/yolov13) library, which helps us to quickly implement our ideas.
+
+### Citation
+If our work is useful for your research, please consider citing.
+
