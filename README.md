@@ -10,7 +10,7 @@ The structure of the UAV detection part is shown as subfigure:
 
 Correspondingly, the structure of UAV target tracking is shown in the following figure:
 
-![CSPTracker](https://github.com/sunbeam-kkt/SUPERTrack-main/blob/main/docs/CSPTracker.jpg)
+![CSPTracker](https://github.com/sunbeam-kkt/SuperTrack/blob/main/Super-Tracker.png)
 
 We can easily start training the SUPERTrack model by:
 
